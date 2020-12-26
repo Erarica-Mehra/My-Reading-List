@@ -1,5 +1,5 @@
 <h2>Introduction</h2>
-<p>I created this project in 2017 to experiment with REST APIs. While I was learning to use and create Rest Apis, I decided to merge my two interests, books and code.</br>
+<p>I created this project in 2017 to experiment with REST APIs. I am an ardent reader and own a huge collection of books. While I was learning to use and create Rest Apis, I decided to merge my two interests, books and code. </br>
 This project uses GoodReads API to generate my personal reading list and pick my next read.
 </p>
 
