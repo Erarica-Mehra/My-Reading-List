@@ -4,7 +4,7 @@ This project uses GoodReads API to generate my personal reading list and pick my
 </p>
 
 <h3>GoodReads API </h3>
-<p>The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social, and engaging.
+<p>The Goodreads API allows developers to access Goodreads data in order to help applications that deal with books.
 You can learn more about GoodReads by visiting this link. <link>https://www.goodreads.com/api/index</link>
 
 <h3>Getting Started</h3>
@@ -12,7 +12,7 @@ You can learn more about GoodReads by visiting this link. <link>https://www.good
   <li>Clone this project and import into your IDE.</li>
   <li>To access GoodReads API to need to create a developer account. Once you do that, you will be provided with a secret key. Replace the string "SECRET_KEY" in RestClientService with your secret key</li>
   <li>To connect with mysql, refer application.properties. The DB folder contains queries you need to run the project. Create a database and exceute the queries.</li>
-  <li>Now you are good to go</li>
+  <li>Now you are good to go.</li>
   </ol>
   
   <h3>Overview</h3>
