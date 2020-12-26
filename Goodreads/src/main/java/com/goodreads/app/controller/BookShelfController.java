@@ -65,9 +65,9 @@ public class BookShelfController {
 			if(mybook.getRating()>= highestRated.getRating())
 				highestRated = mybook;
 		}
-//		Random rand = new Random(); 
-//        MyShelf recommendedBook = myBooks.get(rand.nextInt(myBooks.size())); 
-        modelAndView.addObject("book", highestRated);
+        Random rand = new Random(); 
+        MyShelf recommendedBook = myBooks.get(rand.nextInt(myBooks.size())); 
+        modelAndView.addObject("book", recommendedBook);
 		modelAndView.setViewName("suggestedBook");
 		return modelAndView;
 	}
